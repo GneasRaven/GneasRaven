@@ -1,4 +1,5 @@
 ## Hi there 👋
+Im Maxim the student of Nishny Novgorod HSE university. I am currently in my third year of my undergraduate math program.
 
 <!--
 **GneasRaven/GneasRaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
